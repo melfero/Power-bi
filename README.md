@@ -11,17 +11,14 @@ Abaixo citaremos os principais subgrupos de comandos dentro do SQL.
 <br><br/>
 - DQL: Data Query Language - Comandos que buscam e recupera os dados de um banco de dados - `SELECT` Comando principal.
 <br><br/>
-<br>
+<br><br/>
 ---
-<br>
-<br>
-<br>
+
 <br>
 
 
 <h1> Diagrama SQL
-<br>
-<br>
+<br><br/>
 
 ---
 
@@ -49,3 +46,11 @@ mindmap
       REVOKE: Remove permissao
 
 ```
+---
+<br/><br/>
+
+# Dbreaver e MySQL
+
+- Dbreaver - Ferramenta que auxilia na visualização dos dados. Segue a mesma premissa de ferramentas SQL, auxiliando na visualização e na prática.
+
+
