@@ -82,3 +82,7 @@ WHERE a2.Name = 'Deep Purple' --- Filtro para a tabela
 5° ``LIMIT`` Como o próprio nome sugere, limita a quantidade de linhas informadas 
 
 6° ``GROUP BY`` Embora, alguns professores ensinam o comando, GROUP BY 1, indicando para agrupar pela coluna 1, não é indicado pois, se dado algum momento a coluna mude de posição, haverá problemas no script.
+
+7° ``IN`` DENTRO DA QUERY, SERVE PARA INDICAR SE ESTÁ DENTRO DE UMA OUTRA TABELA
+
+8° ``AND`` Segue a mesma estrutura de algoritmo, serve para indicar mais um parâmetro, Ex: WHERE x.Company ``IS NULL`` AND ``IN`` x.FirsName (SELECT c.FirstName FROM Custumer c)
